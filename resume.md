@@ -44,7 +44,6 @@ B.A. Geography: Data Science
 
 ### 2019-2020
 
-#
 
 ## University of Washington Tacoma
 
@@ -52,7 +51,6 @@ B.A. Geography: Data Science
 
 Milgard School of Business
 
-#
 
 ## Skills
 - Python
@@ -63,9 +61,6 @@ Milgard School of Business
 - SQL Developer
 - Azure DevOps
 - Database Management
-
-
-## Relavant Coursework
 
 
 UW Seattle: https://www.washington.edu/
